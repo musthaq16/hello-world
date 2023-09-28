@@ -9,3 +9,7 @@ This repository is built step by step in the tutorial
 from here about github.
 
 summa dont worry..........mmmmmmmmmmmmmmmmm...............
+s
+
+
+this will upload to the HTML skeleton only..........................
